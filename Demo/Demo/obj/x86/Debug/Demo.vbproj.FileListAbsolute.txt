@@ -1,0 +1,84 @@
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\bin\Debug\Demo.exe
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\bin\Debug\Demo.pdb
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\bin\Debug\Demo.xml
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.Resources.resources
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.exe
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.xml
+c:\users\darwinr\documents\visual studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\Demo\Demo\bin\Debug\RecMagnifier.dll
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\Demo\Demo\bin\Debug\RecMagnifier.pdb
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\Demo\Demo\bin\Debug\RecMagnifier.xml
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\Demo\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
+E:\Demo\Demo\obj\x86\Debug\Demo.exe
+E:\Demo\Demo\obj\x86\Debug\Demo.xml
+E:\Demo\Demo\obj\x86\Debug\Demo.pdb
+F:\Demo\Demo\obj\x86\Debug\Demo.exe
+F:\Demo\Demo\obj\x86\Debug\Demo.xml
+F:\Demo\Demo\obj\x86\Debug\Demo.pdb
+F:\Demo\Demo\bin\Debug\Demo.exe
+F:\Demo\Demo\bin\Debug\Demo.pdb
+F:\Demo\Demo\bin\Debug\Demo.xml
+F:\Demo\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
+F:\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+F:\Demo\Demo\obj\x86\Debug\Demo.Resources.resources
+F:\Demo\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache
+F:\Demo\Demo\bin\Debug\SpiritMagnifier.dll
+F:\Demo\Demo\bin\Debug\SpiritMagnifier.pdb
+F:\Demo\Demo\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.xml
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\darwinr\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\Demo\Demo\bin\Debug\Demo.xml
+C:\Users\darwinr\Desktop\Demo\Demo\bin\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\Demo\Demo\bin\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\Demo\Demo\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.Resources.resources
+C:\Users\darwinr\Desktop\Demo\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.exe
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.xml
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.pdb
+F:\Magnifier_Project\Demo\Demo\bin\Debug\Demo.exe
+F:\Magnifier_Project\Demo\Demo\bin\Debug\Demo.pdb
+F:\Magnifier_Project\Demo\Demo\bin\Debug\Demo.xml
+F:\Magnifier_Project\Demo\Demo\bin\Debug\SpiritMagnifier.dll
+F:\Magnifier_Project\Demo\Demo\bin\Debug\SpiritMagnifier.pdb
+F:\Magnifier_Project\Demo\Demo\bin\Debug\SpiritMagnifier.xml
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.Resources.resources
+F:\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.xml
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\bin\Debug\Demo.xml
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\bin\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\bin\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.Resources.resources
+C:\Users\darwinr\Desktop\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.xml
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.exe
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.xml
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\bin\Debug\Demo.xml
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\bin\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\bin\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.vbprojResolveAssemblyReference.cache
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.Form1.resources
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.Resources.resources
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\Demo\Demo\obj\x86\Debug\Demo.vbproj.GenerateResource.Cache

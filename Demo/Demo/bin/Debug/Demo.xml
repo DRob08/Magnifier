@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Demo
+</name>
+</assembly>
+<members>
+<member name="M:Demo.Form1.CheckFrmOpen(System.String)">
+	<summary>
+ Function to check if Form is open
+ </summary>
+	<param name="name">Name - Name of the form</param>
+	<returns> True - form is open
+           False - form is closed</returns>
+	<remarks></remarks>
+</member><member name="M:Demo.Form1.ResizeImage(System.Drawing.Image,System.Drawing.Size,System.Drawing.Drawing2D.InterpolationMode)">
+	<summary>
+ Author: MiamiDade/Darwin
+ Description: Function to resize Original Image and draw
+ image with new dimensions
+ </summary>
+	<param name="input">Image</param>
+	<param name="newSize">New size for Original Image</param>
+	<param name="interpolation">Using Interpolation</param>
+	<returns>a New Image with different size</returns>
+	<remarks></remarks>
+</member><member name="P:Demo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Demo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Demo.My.Resources.Resources.Affidavit_of_Defense">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Demo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

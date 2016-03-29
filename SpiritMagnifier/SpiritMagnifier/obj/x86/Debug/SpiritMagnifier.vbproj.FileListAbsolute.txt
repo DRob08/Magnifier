@@ -1,0 +1,60 @@
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.xml
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.pdb
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\bin\Debug\RecMagnifier.pdb
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\bin\Debug\RecMagnifier.xml
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.frmMagnifier.resources
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.Resources.resources
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.UCMagnifier.resources
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.vbproj.GenerateResource.Cache
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\bin\Debug\RecMagnifier.dll
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.dll
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.vbproj.GenerateResource.Cache
+F:\RecMagnifier\RecMagnifier\bin\Debug\SpiritMagnifier.dll
+F:\RecMagnifier\RecMagnifier\bin\Debug\SpiritMagnifier.pdb
+F:\RecMagnifier\RecMagnifier\bin\Debug\SpiritMagnifier.xml
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.frmMagnifier.resources
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.Resources.resources
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.UCMagnifier.resources
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.dll
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.xml
+F:\RecMagnifier\RecMagnifier\obj\x86\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.frmMagnifier.resources
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.Resources.resources
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.UCMagnifier.resources
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.vbproj.GenerateResource.Cache
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.pdb
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.dll
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.pdb
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.xml
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.frmMagnifier.resources
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.Resources.resources
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.UCMagnifier.resources
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.vbproj.GenerateResource.Cache
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.dll
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.xml
+F:\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.frmMagnifier.resources
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.Resources.resources
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.UCMagnifier.resources
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.vbproj.GenerateResource.Cache
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\Magnifier_Project\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.pdb
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\bin\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.frmMagnifier.resources
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.Resources.resources
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.UCMagnifier.resources
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.vbproj.GenerateResource.Cache
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.dll
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.xml
+C:\Users\darwinr\Desktop\SPIRIT.NET Projects\Magnifier_Project_Test\SpiritMagnifier\SpiritMagnifier\obj\x86\Debug\SpiritMagnifier.pdb

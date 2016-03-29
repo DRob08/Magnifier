@@ -1,0 +1,12 @@
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\bin\Debug\RecMagnifier.exe
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\bin\Debug\RecMagnifier.pdb
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\bin\Debug\RecMagnifier.xml
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.Resources.resources
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.vbproj.GenerateResource.Cache
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.exe
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.xml
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.pdb
+c:\users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.Form1.resources
+C:\Users\darwinr\Documents\Visual Studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.frmMagnifier.resources
+C:\Users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.frmTest.resources
+C:\Users\darwinr\documents\visual studio 2010\Projects\RecMagnifier\RecMagnifier\obj\x86\Debug\RecMagnifier.UCMagnifier.resources

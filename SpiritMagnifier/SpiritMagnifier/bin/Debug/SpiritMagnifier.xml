@@ -1,0 +1,280 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SpiritMagnifier
+</name>
+</assembly>
+<members>
+<member name="M:SpiritMagnifier.UCMagnifier.#ctor">
+	<summary>
+ Default Constructor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.UCMagnifier.WireAllControls(System.Windows.Forms.Control)">
+	<summary>
+ Helper function to wire all control
+ and let the user control when an event occurred
+ </summary>
+	<param name="cont"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.UCMagnifier.ctl_Click(System.Object,System.EventArgs)">
+	<summary>
+  the click event 
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="T:SpiritMagnifier.MagnifierInit.Magnifier_Window_Position">
+	<summary>
+ This object is found in spiritInit.This object was created here for
+ tetsing purposes
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.GetPrivateProfileString(System.String,System.String,System.String,System.Text.StringBuilder,System.Int32,System.String)">
+	<summary>
+	</summary>
+	<param name="lpSectionName"></param>
+	<param name="lpKeyName"></param>
+	<param name="lpDefault"></param>
+	<param name="lpReturnedString"></param>
+	<param name="nSize"></param>
+	<param name="lpFileName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.WritePrivateProfileString(System.String,System.String,System.String,System.String)">
+	<summary>
+ This function write to Spirit.INI file
+ 
+ </summary>
+	<param name="lpApplicationName"></param>
+	<param name="lpKeyName"></param>
+	<param name="lpString"></param>
+	<param name="lpFileName"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.ResizeImage(System.Drawing.Image,System.Drawing.Size,System.Drawing.Drawing2D.InterpolationMode)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Function to resize Original Image and draw
+ image with new dimensions
+ </summary>
+	<param name="input">Image</param>
+	<param name="newSize">New size for Original Image</param>
+	<param name="interpolation">Using Interpolation</param>
+	<returns>a New Image with different size</returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.MarkImage(System.Drawing.Image,System.Drawing.Rectangle,System.Drawing.Color)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Draws the selection of rectangle on Image
+ </summary>
+	<param name="input">Image</param>
+	<param name="selectedArea">User selected area</param>
+	<param name="selectColor">Color used for the selected area rectangle</param>
+	<returns>Image-Mark the selected area rectable on Image</returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.ZoomImage(System.Drawing.Image,System.Drawing.Rectangle,System.Drawing.Rectangle)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Stretches out selected image
+ </summary>
+	<param name="input">Imge to zoom in</param>
+	<param name="zoomArea">Magnified area</param>
+	<param name="sourceArea">Original selected area</param>
+	<returns>returns an image zoom in</returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.UpdateZoom(System.Drawing.Image@,System.Drawing.Rectangle@,System.Drawing.Image@,System.Int32,System.Windows.Forms.PictureBox@)">
+	<summary>
+ Author: Darwin Robinson
+ Description: 'Map the area selected in the thumbail to the actual image size
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.AdjustArea(System.Drawing.Rectangle@,System.Int32,System.Windows.Forms.PictureBox@,System.Drawing.Image@)">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<param name="sourceRec"></param>
+	<param name="value"></param>
+	<param name="pboIn"></param>
+	<param name="thumbIn"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.LoadConfiguration(System.Drawing.Rectangle@,System.Windows.Forms.Form@,System.Boolean@)">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<param name="sourceRec"></param>
+	<param name="inFrm"></param>
+	<param name="inFirstLoad"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.ReadSpiritIni">
+	<summary>
+ Author: Darwin Robinson
+ Description: Helper function to read from spirit.ini
+ this is implemented in SpiritInit so this MagnifierPos object should come
+ from that class
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.ConfigZoomValue">
+	<summary>
+ Author: Darwin Robinson
+ Description: Reads spirit.ini to bring zoomvalue
+ this is a new field that needs to be added to Magnifier_Window_Position class
+ as well as to the spirit.ini
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.SaveConfiguration(System.Drawing.Rectangle,System.Windows.Forms.Form,System.Int32)">
+	<summary>
+ Author: Darwin Robinson
+ Description: This function is implemented in spiritIni this was done here for testing purposes
+ </summary>
+	<param name="sourceRec"></param>
+	<param name="inFrm"></param>
+	<param name="zValue"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.MagnifierInit.CheckFrmOpen(System.String)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Function to check if Form is open
+ </summary>
+	<param name="name">Name - Name of the form</param>
+	<returns> True - form is open
+           False - form is closed</returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.#ctor(System.Windows.Forms.PictureBox@)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Constructor that creates Magnifier object 
+ when passed a picturebox object
+ </summary>
+	<param name="pboInrtx">Picturebox that contains image to magnify </param>
+	<remarks>Second Constructor to Magnify Image passed through the Picturebox</remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.#ctor">
+	<summary>
+ Author: Darwin Robinson
+ Description: Deafult Constructor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.resizePictureArea">
+	<summary>
+ Author: Darwin Robinson
+ Description: Create a thumbnail image maintaining aspect ratio
+ use low interpolation
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.PictureBox_Click(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description:  Update the selected area when the user clicks on PIctureBox
+  containing the image
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.pictureBox_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description:
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.pictureBox_MouseMove(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.pictureBox_MouseDown(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.SetRectBounds">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.PictureBox_Paint(System.Object,System.EventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Paint event only while this form is open
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.frmMagnifier_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Form closing Event- returns original image to PictureBox when 
+ Closing this form.
+ Isclosing = TRUE when form is closed - this boolean 
+ is used in the paint event
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.tZoom_Scroll(System.Object,System.EventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description: Zoom Factor scrollbar that updates the zoom as 
+ users scrolls up or down
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.frmMagnifier_Resize_1(System.Object,System.EventArgs)">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.CheckSelecArea(System.Drawing.Rectangle)">
+	<summary>
+ Author: Darwin Robinson
+ Description:
+ </summary>
+	<param name="inRectSel"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:SpiritMagnifier.frmMagnifier.setMinRect">
+	<summary>
+ Author: Darwin Robinson
+ Description: 
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SpiritMagnifier.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SpiritMagnifier.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SpiritMagnifier.My.Resources.Resources.Magnify">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SpiritMagnifier.My.Resources.Resources.Magnifying_Glass">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SpiritMagnifier.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
